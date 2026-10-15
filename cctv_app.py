@@ -25,7 +25,7 @@ st.sidebar.markdown("---")
 # RTSP URL - Your Dahua camera
 rtsp_url = st.sidebar.text_input(
     "RTSP URL",
-    value="rtsp://admin:L2569DF7@192.168.29.122:554/cam/realmonitor?channel=1&subtype=0"
+    value="cctv url"
 )
 
 # Stream type selection
